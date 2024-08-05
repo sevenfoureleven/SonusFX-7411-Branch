@@ -57,4 +57,6 @@ Discord: @seven4eleven
 
 Email: 7411@nobodyteam.com
 
+[Twitter](https://x.com/seven4eleven)
+
 [Itch.io Community Topic](https://sevenfoureleven.itch.io/sonusfx)
