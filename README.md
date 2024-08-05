@@ -23,3 +23,5 @@ Both the source and software, this reposity included, are licensed under [GNU Ge
 3. Drop .unitypackage into the project
 
 ## Software:
+- [ITCH.IO](https://sevenfoureleven.itch.io/sonusfx)
+- [INSTALLER COMING SOON]
