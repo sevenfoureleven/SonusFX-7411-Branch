@@ -25,3 +25,19 @@ Both the source and software, this reposity included, are licensed under [GNU Ge
 ## Software:
 - [ITCH.IO](https://sevenfoureleven.itch.io/sonusfx)
 - [INSTALLER COMING SOON]
+
+# Features:
+- Import .wav & .mp3
+- Export as .wav
+- Add filters to imported audio
+
+# Roadmap
+
+(Listed in the order in which features will be added)
+
+- Voice recording/exporting
+- Actual UI for Filters menu
+- Procedural music creation
+- Music creation with audio library
+
+Sonus will transition to the full release after this, with a new roadmap.
