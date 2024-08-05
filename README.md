@@ -15,6 +15,11 @@ Both the source and software, this reposity included, are licensed under [GNU Ge
 # Installation
 ## Source:
 1. Install .unitypackage from Releases
-1.5. ![image](https://github.com/user-attachments/assets/c29812f1-0b62-4f69-bd4c-fb6a70706e38)
-3. Create new Universal 2D project in Unity [6 for best results]
-4. Drop .unitypackage into the project
+ 
+![image](https://github.com/user-attachments/assets/c29812f1-0b62-4f69-bd4c-fb6a70706e38)
+
+2. Create new Universal 2D project in Unity [6 for best results]
+   
+3. Drop .unitypackage into the project
+
+## Software:
