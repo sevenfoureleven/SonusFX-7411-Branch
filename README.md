@@ -52,5 +52,7 @@ Sonus will transition to the full release after this, with a new roadmap.
 # Contacts/Feedback
 
 Either Discussions page or;
+
 Discord: @seven4eleven
+
 Email: 7411@nobodyteam.com
