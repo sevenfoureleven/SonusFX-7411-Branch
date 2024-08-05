@@ -24,6 +24,9 @@ Both the source and software, this reposity included, are licensed under [GNU Ge
 
 ## Software:
 - [ITCH.IO](https://sevenfoureleven.itch.io/sonusfx)
+
+![image](https://github.com/user-attachments/assets/8cf6ffe9-2e65-4ea9-81ba-07d1ce2008e9)
+
 - [INSTALLER COMING SOON]
 
 # Features:
