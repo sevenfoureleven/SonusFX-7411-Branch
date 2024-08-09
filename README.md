@@ -1,4 +1,6 @@
 # SonusFX-7411-Branch
+
+# *USING THIS REPOSITORY FOR ANY KIND OF ARTIFICIAL INTELLIGENCE DEVELOPMENT IS STRICTLY FORBIDDEN
 ![image](https://github.com/user-attachments/assets/4c8e5859-0d7d-44d4-849f-de7d9a8a7173)
 
 SonusFX is an open source ultra-minimalistic audio editor/DAW, being developed by [NOBODY Team](https://github.com/NOBODY-Team).
